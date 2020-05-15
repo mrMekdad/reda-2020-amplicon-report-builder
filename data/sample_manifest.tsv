@@ -1,3 +1,4 @@
 sample	status	group
 amplicon-report-builder-01	ready	control
 amplicon-report-builder-02	review	case
+amplicon-report-builder-03	queued	validation
